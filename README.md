@@ -1,4 +1,4 @@
-# Julia.lab
+# Julia Pachinko ODE
 
 Julia を使った産業動態の微分方程式モデリング。現在の主題は「パチンコ」ユーザー人口の動態分析。
 
